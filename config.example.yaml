@@ -70,5 +70,3 @@ zap:
   encode-level: 'LowercaseColorLevelEncoder'
   stacktrace-key: 'stacktrace'
   log-in-console: false
-
-
