@@ -1,1 +1,6 @@
 .idea/
+config.yaml
+channels.m3u8
+channels.xml
+output/
+*.log
